@@ -17,7 +17,6 @@ def send_request(request_data):
 
         return response_data
 
-# Example of using the client
 if __name__ == "__main__":
     while True:
         print("1. Register a new user")
